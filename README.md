@@ -1,6 +1,6 @@
 # Image-Captioning
 ## The model
-<img src="Model's%20Structure/Model.PNG" width=600>
+<img src="Model's%20Structure/Model.PNG" width=800>
 
 ## some Examples
 <div class="row">
