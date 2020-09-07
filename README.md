@@ -1,7 +1,8 @@
 # Image-Captioning
 ## The model
-<img src="Model's%20Structure/Model.PNG" width=200>
+<img src="Model's%20Structure/Model.PNG" width=800>
 
 ## some Examples
-![alt text](https://github.com/YamenHabib/Image-Captioning/blob/master/examples/input3.jpg  | width=200)
-![alt text](https://github.com/YamenHabib/Image-Captioning/blob/master/examples/output3.jpg  | width=200)
+<img src="examples/input3.jpg" width=800>
+<img src="examples/output3.jpg" width=800>
+
